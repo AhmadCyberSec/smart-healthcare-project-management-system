@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Runtime and sample database snapshots
+*.db
+*.sqlite
+*.sqlite3
+
+# Local tooling
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
